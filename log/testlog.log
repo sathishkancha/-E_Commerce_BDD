@@ -1,0 +1,102 @@
+2023-12-06 14:49:34,814 - nopCommerce -INFO - --opening UrL ---
+2023-12-06 14:49:36,077 - nopCommerce -INFO - --Entering the Login details ---
+2023-12-06 14:49:37,116 - nopCommerce -INFO - --Login button clicked ---
+2023-12-06 14:49:41,260 - nopCommerce -INFO - --Login successfully verified
+2023-12-06 14:49:44,279 - nopCommerce -INFO - --Logout ---
+2023-12-06 14:49:48,790 - nopCommerce -INFO - --Login successfully verified
+2023-12-06 14:49:48,800 - nopCommerce -INFO - --closing browser---
+2023-12-06 14:49:50,191 - nopCommerce -INFO - --opening UrL ---
+2023-12-06 14:49:51,816 - nopCommerce -INFO - --Entering the Login details ---
+2023-12-06 14:49:52,140 - nopCommerce -INFO - --Login button clicked ---
+2023-12-06 14:49:54,775 - nopCommerce -INFO - --Login successfully verified
+2023-12-06 14:49:57,791 - nopCommerce -INFO - --Logout ---
+2023-12-06 14:50:02,298 - nopCommerce -INFO - --Login successfully verified
+2023-12-06 14:50:02,307 - nopCommerce -INFO - --closing browser---
+2023-12-06 14:50:03,533 - nopCommerce -INFO - --opening UrL ---
+2023-12-06 14:50:04,288 - nopCommerce -INFO - --Entering the Login details ---
+2023-12-06 14:50:04,637 - nopCommerce -INFO - --Login button clicked ---
+2023-12-06 14:50:05,962 - nopCommerce -WARN - --Login failed---
+2023-12-06 15:06:58,931 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:06:58,991 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:07:00,739 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:07:01,062 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:07:04,046 - NOP_E_Commerce -INFO - --Login successfully verified
+2023-12-06 15:07:07,058 - NOP_E_Commerce -INFO - --Logout ---
+2023-12-06 15:07:11,731 - NOP_E_Commerce -INFO - --Login successfully verified
+2023-12-06 15:07:11,740 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:07:18,108 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:07:18,115 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:07:20,042 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:07:20,434 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:07:23,800 - NOP_E_Commerce -INFO - --Login successfully verified
+2023-12-06 15:07:26,814 - NOP_E_Commerce -INFO - --Logout ---
+2023-12-06 15:07:31,350 - NOP_E_Commerce -INFO - --Login successfully verified
+2023-12-06 15:07:31,360 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:07:38,443 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:07:38,449 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:07:40,376 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:07:40,825 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:07:41,492 - NOP_E_Commerce -WARN - --Login failed---
+2023-12-06 15:13:34,956 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:13:35,023 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:13:35,982 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:13:36,362 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:13:41,769 - NOP_E_Commerce -INFO - --Login successfully verified
+2023-12-06 15:13:44,792 - NOP_E_Commerce -INFO - --Logout ---
+2023-12-06 15:13:50,192 - NOP_E_Commerce -INFO - --Login successfully verified
+2023-12-06 15:13:50,198 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:15:51,594 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:15:51,655 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:15:52,941 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:15:53,255 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:16:06,701 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:16:06,707 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:16:10,975 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:16:11,468 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:17:09,630 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:17:09,698 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:17:10,743 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:17:11,161 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:17:24,869 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:17:24,919 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:17:27,447 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:17:27,742 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:25:09,540 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:25:09,631 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:25:10,669 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:25:11,109 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:26:02,791 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:26:02,795 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:26:03,836 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:26:04,367 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:26:18,056 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:26:52,357 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:26:52,400 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:26:54,026 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:26:54,978 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:27:08,380 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:27:11,778 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:27:11,784 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:27:13,529 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:27:14,029 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:27:26,911 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:33:11,839 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:33:11,905 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:33:13,046 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:33:13,415 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:33:25,388 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:33:29,724 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:33:29,737 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:33:31,322 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:33:31,995 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:33:42,686 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:35:20,129 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:35:20,184 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:35:21,171 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:35:21,722 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:35:33,331 - NOP_E_Commerce -INFO - --closing browser---
+2023-12-06 15:35:35,927 - NOP_E_Commerce -INFO - -----launching browser----
+2023-12-06 15:35:35,929 - NOP_E_Commerce -INFO - --opening UrL ---
+2023-12-06 15:35:37,057 - NOP_E_Commerce -INFO - --Entering the Login details ---
+2023-12-06 15:35:37,647 - NOP_E_Commerce -INFO - --Login button clicked ---
+2023-12-06 15:35:50,575 - NOP_E_Commerce -INFO - --closing browser---
